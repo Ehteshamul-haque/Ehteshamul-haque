@@ -16,9 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ehaque007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehaque007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ehteshamul haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehteshamul haque" height="30" width="40" /></a>
-<a href="https://fb.com/ehteshamul haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ehteshamul haque" height="30" width="40" /></a>
+<a href="https://twitter.com/ehtesham007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehaque007" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/e-haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehteshamul haque" height="30" width="40" /></a>
 <a href="https://instagram.com/__e_h_t_e_s_h_a_m__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__e_h_t_e_s_h_a_m__" height="30" width="40" /></a>
 </p>
 
