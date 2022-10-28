@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ehteshamul Haque</h1>
-<h3 align="center">A passionate Node.Js developer from India</h3>
+<h3 align="center">A passionate Node.Js and React.Js developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehteshamul-haque&label=Profile%20views&color=0e75b6&style=flat" alt="ehteshamul-haque" /> </p>
 
