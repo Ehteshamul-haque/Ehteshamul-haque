@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/ehaque007" target="blank"><img src="https://img.shields.io/twitter/follow/ehaque007?logo=twitter&style=for-the-badge" alt="ehaque007" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Website**
+- 🔭 I’m currently working on **Network Mobile Application**
 
-- 🌱 I’m currently learning **Next.js, TypeScript, Redux Toolkit, Materiul UI, GraphQL**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **JavaScript , Node.Js , Express.Js, Chakra UI, Shopify**
+- 💬 Ask me about **JavaScript , Node.Js , React.Js, Next.Js, Remix.Js, MongoDB, Express.Js, Chakra UI, Shopify**
 
 - 📫 How to reach me **ehtesham000@gmail.com**
 
