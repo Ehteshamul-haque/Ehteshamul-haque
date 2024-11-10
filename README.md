@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/ehaque007" target="blank"><img src="https://img.shields.io/twitter/follow/ehaque007?logo=twitter&style=for-the-badge" alt="ehaque007" /></a> </p>
 
-- 🔭 I’m currently working on **Shopify UI Checkout Extension**
+- 🔭 I’m currently working on **Inventory Management Project**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **PostgreSQL**
 
-- 💬 Ask me about **JavaScript , Node.Js , React.Js, Next.Js, Remix.Js, MongoDB, Express.Js, Chakra UI, Shopify**
+- 💬 Ask me about **JavaScript , Node.Js , React.Js, React Native, PostgreSQL, Prisma, Next.Js, Remix.Js, MongoDB, Express.Js, Chakra UI, Shopify**
 
 - 📫 How to reach me **ehtesham000@gmail.com**
 
