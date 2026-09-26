@@ -54,13 +54,3 @@ Senior Full Stack Developer & Tech Lead with **4+ years of experience** architec
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=e-haque&show_icons=true&theme=radical&hide_border=true" alt="Ehteshamul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-haque&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=e-haque&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
