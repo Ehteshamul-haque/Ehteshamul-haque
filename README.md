@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ehteshamul Haque</h1>
-<h3 align="center">Senior Full Stack Developer & Tech Lead | MERN • Next.js • TypeScript • Cloud</h3>
+<h3 align="center">Senior Full Stack Developer & Tech Lead | MERN • Next.js • PostgreSQL • Microservice • AWS • DevOps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=e-haque&label=Profile%20views&color=0e75b6&style=flat" alt="e-haque" />
