@@ -21,7 +21,7 @@
 Senior Full Stack Developer & Tech Lead with **4+ years of experience** architecting high-scale web applications, distributed microservices, and leading engineering workflows across the full SDLC.
 
 - 🔭 **Current Focus:** Microservices architecture, event-driven systems (Kafka, BullMQ, Redis), and scalable cloud infrastructure (AWS/Docker).
-- 💼 **Core Expertise:** Next.js, React.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL, and Redis.
+- 💼 **Core Expertise:** Next.js, React.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL, BullMQ, and Redis.
 - ⚡ **Strengths:** System Design, High-performance REST & GraphQL APIs, Real-time systems (WebSockets/Socket.IO), and CI/CD pipelines.
 - 📫 **Reach me at:** [ehtesham000@gmail.com](mailto:ehtesham000@gmail.com)
 
