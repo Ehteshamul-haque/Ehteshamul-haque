@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-Senior Full Stack Developer & Tech Lead with **4+ years of experience** architecting high-scale web applications, distributed microservices, and leading engineering workflows across the full SDLC.
+Senior Full Stack Developer & Tech Lead with **4 years of experience** architecting high-scale web applications, distributed microservices, and leading engineering workflows across the full SDLC.
 
 - 🔭 **Current Focus:** Microservices architecture, event-driven systems (Kafka, BullMQ, Redis), and scalable cloud infrastructure (AWS/Docker).
 - 💼 **Core Expertise:** Next.js, React.js, TypeScript, Node.js, Express, MongoDB, PostgreSQL, BullMQ, and Redis.
